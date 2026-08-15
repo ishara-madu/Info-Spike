@@ -3,6 +3,7 @@ import {
   getOptimizedImageUrl,
   getCloudinarySrcSet,
 } from "../imageOptimizer";
+import { getAssetPath } from "../withBase";
 
 interface ElementNode {
   type: string;
@@ -45,6 +46,8 @@ export function rehypeImageOptimizer() {
               node.properties.srcset = srcset;
               node.properties.sizes = "(max-width: 768px) 100vw, 768px";
             }
+          } else if (src.startsWith("/") && !src.startsWith("//")) {
+            node.properties.src = getAssetPath(src);
           }
         }
       }

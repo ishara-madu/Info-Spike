@@ -10,12 +10,18 @@ local_backend: true
 media_folder: "public/images"
 public_folder: "/images"
 
-# Cloudinary Direct Upload (No Cloudinary Login Needed)
+# Cloudinary Media Library for Sveltia CMS
+media_libraries:
+  cloudinary:
+    config:
+      cloud_name: dakgoguue
+      api_key: "119416591572671"
+
 media_library:
-  name: cloudinary-unsigned
+  name: cloudinary
   config:
     cloud_name: dakgoguue
-    upload_preset: lyrax-blog # Create/set an Unsigned Upload Preset in Cloudinary Settings -> Upload
+    api_key: "119416591572671"
 
 # Slug configuration
 slug:

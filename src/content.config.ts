@@ -31,19 +31,11 @@ const posts = defineCollection({
       featured: z.boolean().optional().default(false),
       trending: z.boolean().optional().default(false),
       category: z.string().default("General"),
-      coverImage: z.preprocess(
-        val =>
-          val === "" || val === null || val === undefined ? undefined : val,
-        image().or(z.string()).optional()
-      ),
+      coverImage: optionalString,
       readingTime: optionalString,
       draft: z.boolean().optional().default(false),
       tags: z.array(z.string()).default(["others"]),
-      ogImage: z.preprocess(
-        val =>
-          val === "" || val === null || val === undefined ? undefined : val,
-        image().or(z.string()).optional()
-      ),
+      ogImage: optionalString,
       description: z.string(),
       canonicalURL: optionalString,
       hideEditPost: z.boolean().optional(),
