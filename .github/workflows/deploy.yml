@@ -2,14 +2,18 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+      - master
   workflow_dispatch:
 
+# Grant the GITHUB_TOKEN the permissions required to make a Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Allow one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: false
@@ -22,7 +26,7 @@ jobs:
       - name: "☁️ Checkout repository"
         uses: actions/checkout@v4
 
-      - name: "📦 Install pnpm"
+      - name: "📦 Setup pnpm"
         uses: pnpm/action-setup@v4
         with:
           version: "11.3.0"
@@ -36,7 +40,7 @@ jobs:
       - name: "📦 Install dependencies"
         run: pnpm install --frozen-lockfile
 
-      - name: "🚀 Build the project"
+      - name: "🚀 Build site & search index"
         run: pnpm run build
 
       - name: "📤 Upload GitHub Pages artifact"

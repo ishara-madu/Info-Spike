@@ -17,6 +17,7 @@ export const GET: APIRoute = async ({ site }) => {
     `Welcome to ${config.site.title}. This index provides a machine-readable summary of our publication for AI search engines, answer engines (AEO/GEO), and research assistants.`,
     "",
     "## Core Topics & Categories",
+    `- [Breaking News](${siteUrl}/categories/breaking-news): Urgent breaking headlines, real-time alerts, and critical developing stories.`,
     `- [AI](${siteUrl}/categories/ai): Next-gen artificial intelligence, autonomous agents, and multimodal reasoning models.`,
     `- [Tech](${siteUrl}/categories/tech): Breakthrough consumer electronics, futuristic hardware, and tech innovation.`,
     `- [Entertainment](${siteUrl}/categories/entertainment): Box office phenomena, viral streaming moments, and digital culture.`,

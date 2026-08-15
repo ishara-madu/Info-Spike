@@ -46,6 +46,8 @@ collections:
           name: "category",
           widget: "select",
           options: [
+            "Breaking News",
+            "News",
             "General",
             "AI",
             "Tech",
