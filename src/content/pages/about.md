@@ -1,13 +1,13 @@
 ---
-title: "About LyraX"
-description: "Learn more about LyraX — your destination for real-time viral trends, tech breakthroughs, and pop culture."
+title: "About Info Spike"
+description: "Learn more about Info Spike — your destination for real-time viral trends, tech breakthroughs, and pop culture."
 ---
 
-Welcome to **LyraX** ([lyrax.live](https://lyrax.live/)), your premier hub for real-time trending news, viral phenomena, cutting-edge technology, AI developments, and pop culture highlights.
+Welcome to **Info Spike** ([ishara-madu.github.io/Info-Spike](https://ishara-madu.github.io/Info-Spike/)), your premier hub for real-time trending news, viral phenomena, cutting-edge technology, AI developments, and pop culture highlights.
 
 ## Our Mission
 
-In today’s fast-moving digital world, trends explode and evolve within hours. At LyraX, our goal is to deliver fast, engaging, and in-depth coverage of what everyone is talking about—before it reaches its peak.
+In today’s fast-moving digital world, trends explode and evolve within hours. At Info Spike, our goal is to deliver fast, engaging, and in-depth coverage of what everyone is talking about—before it reaches its peak.
 
 ## What We Cover
 
@@ -19,7 +19,7 @@ In today’s fast-moving digital world, trends explode and evolve within hours. 
 
 ## Editorial & Founder
 
-LyraX is founded and curated by **Ishara M.** ([ishara-madu.github.io](https://ishara-madu.github.io/)), dedicated to delivering fast, insightful, and real-time coverage of breaking internet trends, AI breakthroughs, and digital culture.
+Info Spike is founded and curated by **Ishara M.** ([ishara-madu.github.io](https://ishara-madu.github.io/)), dedicated to delivering fast, insightful, and real-time coverage of breaking internet trends, AI breakthroughs, and digital culture.
 
 ## Connect With Us
 

@@ -31,7 +31,7 @@ export const GET: APIRoute = async ({ site }) => {
     }),
     "",
     "## Core Pages & Information",
-    `- [About LyraX](${siteUrl}/about/): Mission, editorial standards, and founder background.`,
+    `- [About Info Spike](${siteUrl}/about/): Mission, editorial standards, and founder background.`,
     `- [Frequently Asked Questions (FAQ)](${siteUrl}/faq/): Common questions, submission guidelines, and verification process.`,
     `- [Privacy Policy](${siteUrl}/privacy/): Data protection, cookie practices, and user rights.`,
     "",

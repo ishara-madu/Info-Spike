@@ -21,7 +21,8 @@ import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
 
 export default defineConfig({
-  site: config.site.url,
+  site: "https://ishara-madu.github.io",
+  base: "/Info-Spike",
   image: {
     remotePatterns: [{ protocol: "https", hostname: "res.cloudinary.com" }],
   },

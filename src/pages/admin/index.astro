@@ -7,13 +7,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
-    <title>LyraX Content Manager</title>
+    <title>Info Spike Content Manager</title>
     <!-- Cloudinary Upload Widget (Unsigned direct upload - No Cloudinary login needed) -->
     <script is:inline src="https://upload-widget.cloudinary.com/latest/global/all.js"></script>
   </head>
   <body>
-    <!-- Decap CMS Application -->
-    <script is:inline src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <!-- Sveltia CMS Application (Supports direct GitHub Personal Access Token authentication) -->
+    <script is:inline src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
     <script is:inline>
       (function () {
         if (window.CMS && window.cloudinary) {

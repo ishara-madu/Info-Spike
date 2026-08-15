@@ -1,10 +1,10 @@
 {
-  "id": "/",
-  "name": "LyraX — Real-time Trending News & Viral Stories",
-  "short_name": "LyraX",
-  "description": "LyraX — Real-time trending news, viral stories, tech breakthroughs, and pop culture insights.",
-  "start_url": "/",
-  "scope": "/",
+  "id": "/Info-Spike/",
+  "name": "Info Spike — Real-time Trending News & Viral Stories",
+  "short_name": "Info Spike",
+  "description": "Info Spike — Real-time trending news, viral stories, tech breakthroughs, and pop culture insights.",
+  "start_url": "/Info-Spike/",
+  "scope": "/Info-Spike/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
@@ -12,17 +12,17 @@
   "prefer_related_applications": false,
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/Info-Spike/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/Info-Spike/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
+      "src": "/Info-Spike/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -33,29 +33,29 @@
       "name": "Trending Stories",
       "short_name": "Trending",
       "description": "View #1 trending and viral stories",
-      "url": "/",
-      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+      "url": "/Info-Spike/",
+      "icons": [{ "src": "/Info-Spike/android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Explore Categories",
       "short_name": "Categories",
       "description": "Browse news by topic",
-      "url": "/categories",
-      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+      "url": "/Info-Spike/categories",
+      "icons": [{ "src": "/Info-Spike/android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "AI Innovations",
       "short_name": "AI",
       "description": "Next-gen AI models and autonomous agents",
-      "url": "/categories/ai",
-      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+      "url": "/Info-Spike/categories/ai",
+      "icons": [{ "src": "/Info-Spike/android-chrome-192x192.png", "sizes": "192x192" }]
     },
     {
       "name": "Search Stories",
       "short_name": "Search",
-      "description": "Search topics and stories on LyraX",
-      "url": "/search",
-      "icons": [{ "src": "/android-chrome-192x192.png", "sizes": "192x192" }]
+      "description": "Search topics and stories on Info Spike",
+      "url": "/Info-Spike/search",
+      "icons": [{ "src": "/Info-Spike/android-chrome-192x192.png", "sizes": "192x192" }]
     }
   ],
   "categories": ["news", "entertainment", "technology", "finance"]

@@ -33,7 +33,7 @@ export async function onRequestGet(context: {
         headers: {
           "Content-Type": "application/json",
           Accept: "application/json",
-          "User-Agent": "LyraX-DecapCMS-OAuth",
+          "User-Agent": "InfoSpike-DecapCMS-OAuth",
         },
         body: JSON.stringify({
           client_id: clientId,

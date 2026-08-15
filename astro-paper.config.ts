@@ -2,10 +2,10 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://lyrax.live/",
-    title: "LyraX",
+    url: "https://ishara-madu.github.io/Info-Spike/",
+    title: "Info Spike",
     description:
-      "LyraX — Real-time trending news, viral stories, tech breakthroughs, and pop culture insights.",
+      "Info Spike — Real-time trending news, viral stories, tech breakthroughs, and pop culture insights.",
     author: "Ishara M.",
     authorFull: "Ishara Madushanka",
     profile: "https://ishara-madu.github.io/",
@@ -33,12 +33,12 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github", url: "https://github.com/ishara-madu/lyrax-blog" },
+    { name: "github", url: "https://github.com/ishara-madu/Info-Spike" },
     { name: "mail", url: "mailto:contact@lyrax.live" },
     // Uncomment and add your links when social profiles are created:
-    // { name: "x",        url: "https://x.com/LyraXLive" },
-    // { name: "facebook", url: "https://facebook.com/LyraXLive" },
-    // { name: "telegram", url: "https://t.me/LyraXLive" },
+    // { name: "x",        url: "https://x.com/InfoSpike" },
+    // { name: "facebook", url: "https://facebook.com/InfoSpike" },
+    // { name: "telegram", url: "https://t.me/InfoSpike" },
     // { name: "linkedin", url: "https://linkedin.com/in/..." },
   ],
   shareLinks: [
@@ -47,6 +47,6 @@ export default defineAstroPaperConfig({
     { name: "facebook", url: "https://www.facebook.com/sharer.php?u=" },
     { name: "telegram", url: "https://t.me/share/url?url=" },
     { name: "pinterest", url: "https://pinterest.com/pin/create/button/?url=" },
-    { name: "mail",     url: "mailto:?subject=Trending%20on%20LyraX&body=" },
+    { name: "mail",     url: "mailto:?subject=Trending%20on%20Info%20Spike&body=" },
   ],
 });

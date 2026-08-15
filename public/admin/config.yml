@@ -1,9 +1,7 @@
 backend:
   name: github
-  repo: ishara-madu/lyrax-blog
+  repo: ishara-madu/Info-Spike
   branch: main
-  base_url: https://lyrax.live
-  auth_endpoint: api/auth
 
 # Enable local backend proxy for offline / local testing (via `pnpm run cms:proxy`)
 local_backend: true
