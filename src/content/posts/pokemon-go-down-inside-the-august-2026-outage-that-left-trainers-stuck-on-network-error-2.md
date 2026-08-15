@@ -1,7 +1,7 @@
 ---
 title: 'Pokémon GO Down: Inside the August 2026 Outage That Left Trainers Stuck on "Network Error 2'
 pubDatetime: 2026-08-15T18:54:00Z
-modDatetime: ''
+modDatetime: 2026-08-15T20:13:00Z
 author: Ishara M.
 category: Gaming
 description: Pokémon GO crashed hard on August 14, 2026, locking trainers out with "Network Error 2." Here's the timeline, what Scopely said, and how to fix it fast.
@@ -23,7 +23,7 @@ hideEditPost: false
 timezone: ''
 ---
 
-### When the Servers Went Dark on a Friday Afternoon
+## When the Servers Went Dark on a Friday Afternoon
 
 If you tried to catch something in Pokémon GO on Friday afternoon and got stopped cold by a "Network Error 2" message, you weren't imagining it, and you definitely weren't the only one. On August 14, 2026, Pokémon GO went down hard for a massive chunk of its player base, right in the middle of the game's 10th Anniversary Mewtwo celebration. For a few tense hours, trainers watched their apps freeze at the login screen or, in some cases, load into a game world where nothing actually worked.
 
@@ -35,7 +35,7 @@ One thing worth clearing up before we go any further: a lot of outage coverage s
 
 The timing made this crash sting more than a typical hiccup. Players were mid-grind on limited-time Mewtwo research tied to the anniversary, with Nickit Community Day just two days out. That combination is exactly why a server issue turned into something people were refreshing their phones to track in real time.
 
-### Timeline: How the Outage Escalated, Report by Report
+## Timeline: How the Outage Escalated, Report by Report
 
 The first cracks showed up quietly. Around 2:30 PM PT on Friday, August 14, scattered reports began trickling into Downdetector as a handful of trainers found themselves stuck on "Network Error 2" screens or watching the app hang before it ever reached the map. For the first several minutes, it looked like the kind of small, forgettable blip Pokémon GO throws off every few weeks.
 
@@ -47,7 +47,7 @@ As evening set in, the tide turned. Report volume on Downdetector began sliding 
 
 ![Pokemon GO Downdetector spike and Scopely server error status](https://res.cloudinary.com/dakgoguue/image/upload/v1786824695/Server_crash_digital_tech_illust__202608160022_1.jpg "Downdetector reports spiked past 53,000 as servers went dark on Friday afternoon.")
 
-### What Scopely (Not Niantic) Actually Said
+## What Scopely (Not Niantic) Actually Said
 
 Scopely didn't stay completely silent while the outage played out. Its support account, Scopely Explore Support — the same handle covering Pikmin Bloom, Monster Hunter Now, and Wayfarer — posted on X partway through the incident, confirming the team was investigating "an issue affecting Pokémon GO gameplay" and promising an update once it was fixed.
 
@@ -55,7 +55,7 @@ That acknowledgment is worth pausing on, because it came from [Scopely](https://
 
 Once the servers stabilized, Scopely followed up with a short note confirming the gameplay issue had been resolved, and Downdetector's numbers backed that up almost immediately, sliding back toward normal within the hour. What Scopely hasn't offered is a why. There's no technical explanation for what actually failed, no word on whether it made any server-side changes to fix it, and as of this writing, nothing about compensation for trainers who lost progress mid-raid or mid-research. That pattern — quick acknowledgment, quiet resolution, no postmortem — is fairly standard across mobile gaming, but it tends to leave a game's most engaged players wanting more, especially one with a fanbase this vocal.
 
-### Trainers Sound Off: Reddit and X React
+## Trainers Sound Off: Reddit and X React
 
 Reddit and X did what Reddit and X always do during a Pokémon GO outage: they lit up fast, and the tone swung between genuine frustration and gallows humor almost immediately. On X, trainers piled onto the official accounts directly, tagging [@PokemonGoApp](https://x.com/PokemonGoApp) and [@ScopelyExplore](https://x.com/ScopelyExplore) with a mix of status checks and complaints. One especially blunt post summed up the mood for players who'd planned their evening around it, telling Scopely to fix its servers because the Friendship Friday bonus was going to waste while the game sat down.
 
@@ -67,7 +67,7 @@ Underneath the humor, though, was a real current of fatigue. Several posts refer
 
 ![Pokemon GO Network Error 2 troubleshooting and phone fix guide](https://res.cloudinary.com/dakgoguue/image/upload/v1786824701/Person_troubleshooting_smartphon__202608160023_1.jpg "Pokémon GO Down: Inside the August 2026 Server Outage & Network Error 2")
 
-### Stuck on Network Error 2? Try These Fixes First
+## Stuck on Network Error 2? Try These Fixes First
 
 There's not a lot players can do when the problem lives on Scopely's servers (still getting used to typing that instead of Niantic), but a few basic steps are worth running through anyway, if only to rule out your own device.
 
@@ -80,7 +80,7 @@ There's not a lot players can do when the problem lives on Scopely's servers (st
 
 None of this will speed up a fix that's happening on Scopely's end. What it does is tell you, fast, whether you're dealing with a personal glitch or just waiting out the same outage as everyone else.
 
-### Why This Keeps Happening, and What's Next
+## Why This Keeps Happening, and What's Next
 
 Friday's outage will probably be forgotten within a week, the way most Pokémon GO hiccups are. But it's worth remembering as more than just a bad afternoon for anyone chasing Mewtwo. The game is nearly a decade old, running on infrastructure that's now changed hands, and growing pains like this tend to surface when a new owner is still settling into how everything works under the hood. This wasn't even the year's first scare — Downdetector logged a smaller spike back on August 1 — and a separate outage last October turned out to be an AWS problem that also knocked out Roblox and Fortnite at the same time.
 
