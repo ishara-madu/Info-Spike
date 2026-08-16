@@ -1,7 +1,7 @@
 ---
 title: 'Pokémon GO Down: Inside the August 2026 Outage That Left Trainers Stuck on "Network Error 2'
 pubDatetime: 2026-08-15T18:54:00Z
-modDatetime: 2026-08-15T20:22:00Z
+modDatetime: 2026-08-16T00:09:00Z
 author: Ishara M.
 category: Gaming
 description: Pokémon GO crashed hard on August 14, 2026, locking trainers out with "Network Error 2." Here's the timeline, what Scopely said, and how to fix it fast.
@@ -47,8 +47,6 @@ Throughout that window, players described two separate flavors of broken. Some g
 
 As evening set in, the tide turned. Report volume on Downdetector began sliding back down, and outage-tracking services that monitor the game's core status pegged the actual "hard down" window at somewhere around half an hour, even though the flood of user reports took a couple of hours to fully taper off. That gap makes sense: once the servers stabilized, plenty of players were still discovering the problem secondhand, or dealing with an app that needed a restart to catch up. By the time Scopely confirmed the fix, Downdetector's numbers were already headed back to baseline.
 
-<br>
-
 ![Pokemon GO Downdetector spike and Scopely server error status](https://res.cloudinary.com/dakgoguue/image/upload/v1786824695/Server_crash_digital_tech_illust__202608160022_1.jpg "Downdetector reports spiked past 53,000 as servers went dark on Friday afternoon.")
 
 <br><br>
@@ -75,11 +73,9 @@ The jokes leaned heavily on the timing. With trainers mid-way through 10th Anniv
 
 Underneath the humor, though, was a real current of fatigue. Several posts referenced the game's other rough patches this year, treating Friday's crash less as a shocking one-off and more as the latest entry on a growing list.
 
-<br>
+<br><br>
 
 ![Pokemon GO Network Error 2 troubleshooting and phone fix guide](https://res.cloudinary.com/dakgoguue/image/upload/v1786824701/Person_troubleshooting_smartphon__202608160023_1.jpg "Pokémon GO Down: Inside the August 2026 Server Outage & Network Error 2")
-
-<br><br>
 
 ## Stuck on Network Error 2? Try These Fixes First
 
