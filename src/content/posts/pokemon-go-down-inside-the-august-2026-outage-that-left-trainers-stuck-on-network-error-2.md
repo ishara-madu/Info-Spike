@@ -51,8 +51,6 @@ As evening set in, the tide turned. Report volume on Downdetector began sliding 
 
 <br>
 
-## 
-
 ## What Scopely (Not Niantic) Actually Said
 
 Scopely didn't stay completely silent while the outage played out. Its support account, Scopely Explore Support — the same handle covering Pikmin Bloom, Monster Hunter Now, and Wayfarer — posted on X partway through the incident, confirming the team was investigating "an issue affecting Pokémon GO gameplay" and promising an update once it was fixed.
