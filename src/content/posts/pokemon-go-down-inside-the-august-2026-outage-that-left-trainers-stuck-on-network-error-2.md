@@ -16,8 +16,8 @@ tags:
   - network error 2 pokemon go
   - scopely pokemon go
 readingTime: 15 min
-coverImage: https://res.cloudinary.com/dakgoguue/image/upload/v1786824613/Frustrated_person_on_phone_202608160022_1.jpg
-ogImage: https://res.cloudinary.com/dakgoguue/image/upload/v1786824613/Frustrated_person_on_phone_202608160022_1.jpg
+coverImage: https://res.cloudinary.com/dakgoguue/image/upload/v1786875118/person.jpg
+ogImage: https://res.cloudinary.com/dakgoguue/image/upload/v1786875118/person.jpg
 canonicalURL: ''
 hideEditPost: false
 timezone: ''
@@ -49,7 +49,7 @@ Throughout that window, players described two separate flavors of broken. Some g
 
 As evening set in, the tide turned. Report volume on Downdetector began sliding back down, and outage-tracking services that monitor the game's core status pegged the actual "hard down" window at somewhere around half an hour, even though the flood of user reports took a couple of hours to fully taper off. That gap makes sense: once the servers stabilized, plenty of players were still discovering the problem secondhand, or dealing with an app that needed a restart to catch up. By the time Scopely confirmed the fix, Downdetector's numbers were already headed back to baseline.
 
-![Pokemon GO Downdetector spike and Scopely server error status](https://cloudinary.com "Downdetector reports spiked past 53,000 as servers went dark on Friday afternoon.")
+![Pokemon GO Downdetector spike and Scopely server error status](https://res.cloudinary.com/dakgoguue/image/upload/v1786875117/severerror.jpg "Downdetector reports spiked past 53,000 as servers went dark on Friday afternoon.")
 
 <br>
 
@@ -79,7 +79,7 @@ But beneath all the sarcastic memes, you could feel a very real sense of fatigue
 
 <br>
 
-![Pokemon GO Network Error 2 troubleshooting and phone fix guide](https://cloudinary.com "Pokémon GO Down: Inside the August 2026 Server Outage & Network Error 2")
+![Pokemon GO Network Error 2 troubleshooting and phone fix guide](https://res.cloudinary.com/dakgoguue/image/upload/v1786875106/last.jpg "Pokémon GO Down: Inside the August 2026 Server Outage & Network Error 2")
 
 ## Stuck on Network Error 2? Here’s Your Reality Check Checklist
 
